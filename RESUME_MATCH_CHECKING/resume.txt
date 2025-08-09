@@ -1,0 +1,5 @@
+Name Li Cheng
+skills
+python data science  pandas ML
+Experience 
+Data Science Intern at Aura
